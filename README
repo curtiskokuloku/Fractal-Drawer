@@ -1,0 +1,29 @@
+Group member's names and x500s
+--> Curtis Kokuloku - kokul003
+
+Contributions of each partner (if working with a partner)
+--> Did not work with a partner
+
+How to compile and run your program
+--> DO NOT CLICK THE PLAY BUTTON WHEN USING YOUR FAVORITE EDITOR
+--> Use the TERMINAL
+--> Make sure you are in the right directory/module
+--> Type javac FractalDrawer.java
+--> Then type java FractalDrawer
+
+Any assumptions
+--> Assume that the fractal may not show up unless you are in full screen for the Canvas to display the Fractal
+
+Additional features that you implemented (if applicable)
+--> I used the Scanner class to ask the user for the radius of the circle, and height and width of the triangle and rectangle
+
+Any known bugs or defects in the program
+--> jApplet in teh Canvas class gave a warning that it is outdated, but the code still runs
+
+Any outside sources
+    - create a helper function to generate random colors: https://www.codegrepper.com/code-examples/java/creating+random+color+in+java
+
+Include the statement:
+    I certify that the information contained in this README
+    file is complete and accurate. I have both read and followed the course policies
+    in the ‘Academic Integrity - Course Policy’ section of the course syllabus.
